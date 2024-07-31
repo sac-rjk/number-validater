@@ -4,7 +4,7 @@ This project is a simple mobile number validator built using HTML, CSS, and Java
 
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/mobile-number-valideter/]
+Here is the live domo of project[https://sac-rjk.github.io/number-validater/]
 
 
 
